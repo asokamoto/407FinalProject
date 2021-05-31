@@ -3,7 +3,6 @@ layout: post
 title:  "TMT in the Eyes of Local People in Hawaii – Opinion"
 date:   2021-05-31 
 excerpt: "Opinion piece on TMT controversy"
-image: "/images/pic02.jpg"
 ---
 
 I’d like to preface that this will be an opinionated piece based on what I’ve learned from this project. This is from the perspective of someone who is not only from Hawaii, but much of my knowledge on the topic has been from researching this controversy in the past few weeks. 

@@ -3,7 +3,6 @@ layout: post
 title:  "Science and Astronomy in Hawaii"
 date:   2021-05-02
 excerpt: "Analysis on Aanchal Saraf's paper"
-image: "/images/pic02.jpg"
 ---
 The Disney movie Moana is a heartwarming story about a young princess who teams up with the Hawaiian Demi-god Maui in order to save her home, Motonui, by restoring the heart of Te Fiti, the goddess of creation. In order to do this, she needs to learn how to navigate the ocean using the stars and make her way to Te Fiti’s island. Though animated movies like this are mostly fiction, the creators of Moana had to do some research on the art of wayfinding. Polynesians have been navigating the ocean since 300 A.D., which is how they were able to make their initial migration across the Pacific without modern technology. Celestial navigation, or wayfinding, was once a forgotten tradition, but Polynesians have since revitalized the practice in the creation of the Hokule'a ship. The double-hulled boat is modeled after the original boats that the Polynesians sailed all those years ago. The boat made its way from Hawaii to Tahiti by only use of wayfinding in 1976. Since then, the Hokule'a has made 11 voyages and completed their longest worldwide 6-year trip. 
 
