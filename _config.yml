@@ -4,7 +4,7 @@ bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 #baseurl: "/407finalproj" # the subpath of your site, e.g. /blog
-url: "asokamoto.github.io/407finalproj" # the base hostname & protocol for your site
+#url: "asokamoto.github.io/407finalproj" # the base hostname & protocol for your site
 
 
 # Other
