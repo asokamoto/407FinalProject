@@ -2,9 +2,72 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/blog/welcome-to-massively-the-jekyll-theme/</loc>
+      <loc>asokamoto.github.io/407finalproj/blog/TMT-In-The-Eyes-Of-Local-People-in-Hawaii-Opinion/</loc>
       
-        <lastmod>2017-10-31T00:00:00-10:00</lastmod>
+        <lastmod>2021-05-31T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/31-Kawais-QnA/</loc>
+      
+        <lastmod>2021-05-29T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/21-Kenedi-QnA/</loc>
+      
+        <lastmod>2021-05-29T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/Arguments/</loc>
+      
+        <lastmod>2021-05-05T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/21-Swanners-Article/</loc>
+      
+        <lastmod>2021-05-04T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/21-Neocolonialism/</loc>
+      
+        <lastmod>2021-05-03T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/21-Science-and-Astronomy-in-Hawaii/</loc>
+      
+        <lastmod>2021-05-02T00:00:00-10:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/21-TMT-Controversy-Background/</loc>
+      
+        <lastmod>2021-05-01T00:00:00-10:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -12,7 +75,7 @@
   
   
     <url>
-      <loc>/about/</loc>
+      <loc>asokamoto.github.io/407finalproj/about/</loc>
        <lastmod>2017-11-02T00:00:00-10:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -22,7 +85,7 @@
      </url>
   
     <url>
-      <loc>/blog/</loc>
+      <loc>asokamoto.github.io/407finalproj/blog/</loc>
        <lastmod>2017-11-02T00:00:00-10:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -32,7 +95,7 @@
      </url>
   
     <url>
-      <loc>/elements/</loc>
+      <loc>asokamoto.github.io/407finalproj/elements/</loc>
        <lastmod>2017-11-02T00:00:00-10:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -42,7 +105,7 @@
      </url>
   
     <url>
-      <loc>/</loc>
+      <loc>asokamoto.github.io/407finalproj/</loc>
        <lastmod>2017-11-02T00:00:00-10:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -52,7 +115,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/main.css</loc>
+      <loc>asokamoto.github.io/407finalproj/assets/css/main.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -62,7 +125,7 @@
      </url>
   
     <url>
-      <loc>/assets/css/noscript.css</loc>
+      <loc>asokamoto.github.io/407finalproj/assets/css/noscript.css</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -72,7 +135,7 @@
      </url>
   
     <url>
-      <loc>/sitemap.xml</loc>
+      <loc>asokamoto.github.io/407finalproj/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -82,7 +145,7 @@
      </url>
   
     <url>
-      <loc>/thank-you/</loc>
+      <loc>asokamoto.github.io/407finalproj/thank-you/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -92,7 +155,7 @@
      </url>
   
     <url>
-      <loc>/feed.xml</loc>
+      <loc>asokamoto.github.io/407finalproj/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -102,12 +165,22 @@
      </url>
   
     <url>
-      <loc>/feed.xslt.xml</loc>
+      <loc>asokamoto.github.io/407finalproj/feed.xslt.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
        <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>asokamoto.github.io/407finalproj/blog/page2/</loc>
+       <lastmod>2017-11-02T00:00:00-10:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
       
      </url>
   

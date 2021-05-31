@@ -1,25 +1,11 @@
 # Site
-title:              Massively
+title:              TMT Controversy
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 #baseurl: "/407finalproj" # the subpath of your site, e.g. /blog
 url: "asokamoto.github.io/407finalproj" # the base hostname & protocol for your site
 
-# Comments
-disqus_shortname:   default
-
-# Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
-
-# personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg

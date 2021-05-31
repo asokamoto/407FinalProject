@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: TMT Final Project
 description: This is the homepage for my HON407 final project. 
 sitemap:
@@ -28,9 +28,9 @@ sitemap:
 				<!-- Intro -->
 					<div id="intro">
             <h1>{{site.title}}</h1>
-						<h2>The Jekyll Theme Version</h2>
-						<p>Massively is an HTML5 website theme designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
-						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>. Jekyll integration by <a href="https://somiibo.com">Somiibo</a></p>
+						<h2>Created by Ashlyn Okamoto</h2>
+						<p>This page is dedicated to the TMT controversy with some factual posts along with some opinions. At the end of each post, there will be a link to another. Follow the site map to get the full experience.
+						</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -53,44 +53,41 @@ sitemap:
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
-									<p>With only a few edits, you can have a stunningly beautiful website <br />
-                    nearly out of the box. Of course... you can always take it further <br />
-                    and make it something even more amazing!</p>
+									<h2><a href="#">Author's Letter to the Reader</a></h2>
+									<!--<p>Thanks for reading!</p>-->
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-                <p>Regardless of your website's function, the homepage is what brings the user in.
-                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
-                <p>Your homepage must clearly describe what your site is about.
-									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
-								</p>
-								<p>
-									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
-								 </p>
+								<!-- <a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>-->
+								<p>Dear Reader, <br>
+
+									As someone who was born and raised in Hawaii, the topic of Native Hawaiian rights has always been in the local media. We are taught about Hawaiian history in school from a young age and the injustice they have faced. I believe that this gives us a unique perspective in looking at an event such as the TMT construction. In light of this controversy, the topic was put into the national spotlight where native culture and science were put against each other. <br><br>
+This is not the first time something like this has happened in history; this page is dedicated to looking at all points of view and how it compares to those events in the past. We will look at Neocolonialism and how it relates to this topic along with some Q&As with some of my close friends who are a part of the Native Hawaiian community. We will also look at bias in general and how this event has been portrayed in the media.
+<br><br>
+
+I would like to make clear that I am personally not a Native Hawaiian. I cannot speak on behalf of those who have felt these injustices. Though this page is dedicated to putting out facts, I can’t guarantee that there will be no personal bias. As someone who is proudly from Hawaii, we have been taught to preserve the Hawaiian culture regardless of our ethnic background. Hopefully, given all the information on this website, you can make your own judgement on the controversy.<br><br> Click one of the links below to get started. 
+
+<br><br>
+Thank you,<br>
+Ashlyn<br>
+</p>
 
 							</article>
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                {% for post in site.posts limit:4 %}
+                {% assign mod4 = forloop.index | modulo: 4 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
+                  {% if mod4 == 0 %}
   								</article>
                   {% endif %}
                 {% endfor %}
