@@ -5,7 +5,7 @@ date:   2021-05-05
 excerpt: "Overview of the arguments made by both TMT and the Native Hawaiians"
 image: "/images/graph.png"
 ---
-There are many arguments on both sides of the controversy, but we will start with those who support TMT. As expected, many of the arguments are based in science. They state on the TMT website a bunch of facts about the telescope: TMT will be located 500 feet below the summit.
+There are many arguments on both sides of the controversy, but we will start with those who support TMT. As expected, many of the arguments are based in science. They state on the TMT [website](https://www.maunakeaandtmt.org/) a bunch of facts about the telescope: TMT will be located 500 feet below the summit.
 
 -	TMT’s site has no archaeological shrines or features, no endangered plants, no endangered insects and no burials.
 -	TMT is not visible from any of the places that people consider the most sacred on the mountain.
