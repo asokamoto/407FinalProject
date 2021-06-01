@@ -3,7 +3,7 @@ layout: post
 title:  "Neocolonialism and Colonialism in Hawaii"
 date:   2021-05-03
 excerpt: "Background information on colonialism and neocolonilism in Hawaii"
-image: "/images/queenliliuokalani.png"
+image: "/images/queenLiliuokalani.png"
 ---
 Going forward, it is important that we have a general understanding of colonialism, neocolonialism and its effects on Hawaii. 
 Colonialism is described as “the deliberate imposition of the rules and policies of a nation on another nation. (Fieser, Dowden)” This is used as a way to exploit the colonized nation to facilitate economic development in the home state. The main concept of colonialism is that with rule over another country or region, the conqueror’s country will benefit from the exploitation of the conquered resources. When a state is conquered, their economic, political, social and sometimes intellectual structure is altered due to the influence of the conqueror. “Neocolonialism” is a term that describes the actions and effects that are left from the days of the colonial era in a society (Fieser, Dowden). Though we aren’t seeing as much colonialism in the 21st century, we are seeing the remanence of the colonial era as neocolonialism.
