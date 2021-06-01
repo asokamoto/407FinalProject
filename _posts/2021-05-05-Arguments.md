@@ -29,4 +29,9 @@ Native Hawaiians are unhappy with this decision to build TMT for a few reasons. 
 	
 The main objective of this article as stated in their executive summary is “[…] to provide an Indigenous viewpoint centered in Native Hawaiian perspectives on the impacts of the TMT project on the Hawaiian community. (Kanahele, 1)” Though TMT has a solid argument as to why they should build the telescope, I think the question comes down to what matters more? Yes, they spent a lot of money on planning and took all legal precautions, but in the end, whose opinion matters? The controversy is between science and culture. Though the telescope would objectively be good for science, is it a justifiable action if those it is personally affecting don’t want it. What do you think?
 	
+[Kawai's Q&A](https://asokamoto.github.io/407FinalProject/blog/Kawais-QnA/)
+
+[Kenedi's Q&A](https://asokamoto.github.io/407FinalProject/blog/Kenedi-QnA/)
+
+[TMT Opinion](https://asokamoto.github.io/407FinalProject/blog/TMT-In-The-Eyes-Of-Local-People-in-Hawaii-Opinion/)
 

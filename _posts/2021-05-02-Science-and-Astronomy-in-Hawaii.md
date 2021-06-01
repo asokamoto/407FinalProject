@@ -13,4 +13,5 @@ Saraf argues that the settlers (those who are not native to Hawaii) who represen
 This is a trend we see in science when we compare “western” vs. “traditional.” Earlier in the term, we read an article by Fa-ti Fan, “Redrawing the Map.” There was a similar concept in this paper where Fan talks about how these binaries (such as western vs. traditional) can be detrimental to the overall view of a country’s science. Much of China’s science has been labeled “traditional,” which many times will translate to being unreliable or not as reliable as “western” science. This is not the case and that can be seen here in the Hawaiian culture’s astronomy. There is valid science behind wayfinding, and it works, but because it wasn’t created by a “western” power, it is dismissed as inaccurate. This is a problem that has been occurring across all non-western science and has its roots in colonialism and neocolonialism.  
 
 Follow the links below to read more about how colonialism and neocolonialism play a large part in the history of Hawaii.  
+[Colonialism and Neocolonialism in Hawaii](https://asokamoto.github.io/407FinalProject/blog/Neocolonialism/)
 
