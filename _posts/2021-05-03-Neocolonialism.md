@@ -17,5 +17,7 @@ To this day, Hawai’i is seen as a tourist destination and those who visit usua
 An example of this lack of respect for the land, there is currently a big controversy surrounding Mark Zuckerberg’s Hawaii estate as he is attempting to purchase protected land around his already large $100 million Kauai property. The protected land are Hawaiian land parcels which are reserved for the natives. Mr. Zuckerberg is trying to take that land from the native Hawaiians, which seems to be a trend in Hawaiian history. It is events like these that show us that neocolonialism is still present today.
 
 [PBS Video on Annexation](https://hawaii.pbslearningmedia.org/resource/ha06.ush.ind.overthrow/the-overthrow-of-queen-liliuokalani/)
+
 [Swanner Article Analysis](https://asokamoto.github.io/407FinalProject/blog/Swanners-Article/)
+
 [image link](https://www.nhcohawaii.org/sermons/w-3-29-20-the-queens-meet-the-king/)
