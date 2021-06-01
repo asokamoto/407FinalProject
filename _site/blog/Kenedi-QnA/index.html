@@ -52,7 +52,7 @@
   <li><a href="https://github.com/" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
 </ul>
 
-						
+
 					</nav>
 
 				<!-- Main -->
@@ -93,10 +93,36 @@
 </p>
       		</section>
 
+          <div class="comments-wrapper">
+          <div id="disqus_thread"></div>
+          <script>
+              /**
+               *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+               *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+               */
+
+              var disqus_config = function () {
+                  this.page.url = '/blog/Kenedi-QnA/';  /*Replace PAGE_URL with your page's canonical URL variable*/
+                  this.page.identifier = '/blog/Kenedi-QnA/'; /*Replace PAGE_IDENTIFIER with your page's unique identifier variable*/
+              };
+
+              (function() {  /* dont endit below this line */
+                  var d = document, s = d.createElement('script');
+
+                  s.src = 'https://.disqus.com/embed.js';
+
+                  s.setAttribute('data-timestamp', +new Date());
+                  (d.head || d.body).appendChild(s);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        </div><!-- /.comments-wrapper -->
+
+
 					<!-- Footer -->
 						<footer>
               <ul class="actions">
-                <li><a href="/blog/" class="button">Blog</a></li>
+                <li><a href="/blog/" class="button">Our Blog</a></li>
               </ul>
 						</footer>
 					</div>
